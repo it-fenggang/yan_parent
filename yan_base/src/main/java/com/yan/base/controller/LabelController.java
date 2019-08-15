@@ -60,4 +60,5 @@ public class LabelController {
         labelService.deleteById(id);
         return new Result(true,StatusCode.OK,StatusCode.DELETE_OK);
     }
+    
 }
