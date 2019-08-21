@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @ControllerAdvice
 public class BaseExceptionHandler {
 
+
     /**
      * 异常处理方法
      */
