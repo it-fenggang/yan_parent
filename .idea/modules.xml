@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/yan_base/yan_base.iml" filepath="$PROJECT_DIR$/yan_base/yan_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/yan_common/yan_common.iml" filepath="$PROJECT_DIR$/yan_common/yan_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/yan_parent.iml" filepath="$PROJECT_DIR$/.idea/yan_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yan_user/yan_user.iml" filepath="$PROJECT_DIR$/yan_user/yan_user.iml" />
     </modules>
   </component>
 </project>

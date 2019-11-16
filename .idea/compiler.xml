@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="yan_base" />
         <module name="yan_common" />
+        <module name="yan_user" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="yan_base" target="1.8" />
       <module name="yan_common" target="1.8" />
       <module name="yan_parent" target="1.8" />
+      <module name="yan_user" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

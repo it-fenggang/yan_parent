@@ -11,6 +11,7 @@
     <modules>
         <module>yan_common</module>
         <module>yan_base</module>
+        <module>yan_user</module>
     </modules>
 
     <parent>

@@ -10,8 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.yan</groupId>
-    <artifactId>yan_base</artifactId>
-
+    <artifactId>yan_user</artifactId>
     <dependencies>
         <dependency>
             <groupId>com.yan</groupId>
@@ -19,4 +18,5 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
+
 </project>

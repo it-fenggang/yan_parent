@@ -1,0 +1,17 @@
+server:
+  port: 9101
+spring:
+  application:
+    name: yan-user  #微服务名称
+  datasource: #数据库连接参数
+    url: jdbc:mysql://localhost:3306/yan_user?characterEncoding=UTF8
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+mybatis:
+  # 搜索指定包别名
+  #typeAliasesPackage: com.yan
+  # 配置mapper的扫描，找到所有的mapper.xml映射文件
+  #mapperLocations: classpath*:mapper/**/*Mapper.xml
+  # 加载全局的配置文件
+  configLocation: classpath:mybatis-config.xml
